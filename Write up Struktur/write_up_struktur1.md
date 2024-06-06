@@ -17,8 +17,8 @@ Langkah pertama adalah memahami deskripsi tantangan dan mengidentifikasi celah k
 ### Langkah Teknis
 
 #### 1. Memeriksa Sumber Kode
-```bash
-# Potongan kode atau perintah yang digunakan
+
+#### Potongan kode atau perintah yang digunakan
 
 ### Tools yang Digunakan
 - **Nama tools**
