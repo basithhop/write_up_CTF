@@ -4,14 +4,14 @@
 Deskripsi singkat tentang tantangan.
 
 ## Langkah-langkah Penyelesaian
-**1. Memeriksa sumber kode**
-...bash
+### 1. Memeriksa sumber kode
 
 ## Flag
-flag{*?}
+### flag{*?}
 
 ## Tools yang Digunakan
-- **Nama tools**
+### - Nama tools
 
-##Kesimpulan
-**Kesimpulan**: Kesimpulan tentang tantangan.
+## Kesimpulan
+### Kesimpulan:
+**Kesimpulan tentang tantangan.**
