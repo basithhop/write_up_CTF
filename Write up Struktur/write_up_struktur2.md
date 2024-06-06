@@ -13,5 +13,4 @@ Deskripsi singkat tentang tantangan.
 ### - Nama tools
 
 ## Kesimpulan
-### Kesimpulan:
-**Kesimpulan tentang tantangan.**
+Kesimpulan tentang tantangan.
