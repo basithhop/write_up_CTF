@@ -21,10 +21,10 @@ Langkah pertama adalah memahami deskripsi tantangan dan mengidentifikasi celah k
 #### Potongan kode atau perintah yang digunakan
 
 ### Tools yang Digunakan
-- **Nama tools**
+#### Nama tools
 
 ### Flag
-flag{*?}
+#### flag{*?}
 
 ## Kesimpulan
-**Kesimpulan**: Kesimpulan tentang tantangan.
+Kesimpulan tentang tantangan.
