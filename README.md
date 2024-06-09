@@ -1,4 +1,4 @@
-# write_up_picoCTF
+# Write Up picoCTF
 Halo temen-temen saya Ramadhani Basith Razaky as Basith.
 Repositori ini akan saya isi dengan write up dari hasil challenges
 yang saya kerjakan di salah satu website pembelajaran CTF, yaitu picoCTF.
